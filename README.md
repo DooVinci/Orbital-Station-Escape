@@ -22,7 +22,6 @@ Desktop -- Browser Website
 | Move | `W` `A` `S` `D` or Arrow Keys |
 | Look around | Mouse |
 | Zoom in / out | Mouse Scroll Wheel |
-| Restart after Win/Lose | `R` |
 
 ## How to Play
 

@@ -1,6 +1,10 @@
 # Orbital Station Escape
 Takes place in a sci-fi orbital station where a small ball of energy is trying to survive its encounters against an enemy AI drone. To stay alive, it has to collect energy crystals floating around the station to power itself. But there is a broken AI security drone moving around, trying to destroy it. Your job is to grab all the energy cores while avoiding the drone.
 
+## Game Demo
+
+[Itch.io Upload](https://doovinci.itch.io/orbital-station-escape)
+
 ## Genre
 Arcade / Casual Survival
 

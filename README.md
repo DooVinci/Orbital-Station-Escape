@@ -60,5 +60,5 @@ Assets/
 ```
 
 ## Credits
-Vincent Do
+Vincent Do, 
 Govil Monga

@@ -32,7 +32,6 @@ Desktop -- Browser Website
   - **Speed Boost** — temporarily increases your movement speed.
   - **Shield** — absorbs one drone collision before breaking.
 - Collect every core to win. Get caught by the drone to lose.
-- Press `R` after either ending to restart the round.
 
 ## Prerequisites
 The assets folder for the Unity project is too large for a Git commit. A Google Drive link below with the entire "Assets" folder is included. It needs to be extracted and placed inside the same directory. https://drive.google.com/file/d/1MPAAzm_JFViIdMnaJEAMcbS42aReB8u3/view?usp=sharing

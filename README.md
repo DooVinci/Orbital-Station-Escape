@@ -4,6 +4,8 @@ Takes place in a sci-fi orbital station where a small ball of energy is trying t
 ## Game Demo
 
 [Itch.io Upload](https://doovinci.itch.io/orbital-station-escape)
+[Video Demo](https://drive.google.com/file/d/1jUljLYaRVL8SjjMptQK6VvMkjWvLm8az/view?usp=sharing)
+[Google Drive Repository (Alternative -- includes `Assets` folder)](https://drive.google.com/drive/folders/1Z4OjWLcNmZEtB6SyIOwykhKwl9H9QFpA?usp=sharing))
 
 ## Genre
 Arcade / Casual Survival

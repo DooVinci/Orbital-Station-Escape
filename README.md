@@ -26,6 +26,9 @@ Desktop -- Browser Website
 - Collect every core to win. Get caught by the drone to lose.
 - Press `R` after either ending to restart the round.
 
+## Prerequisites
+The assets folder for the Unity project is too large for a Git commit. A Google Drive link below with the entire "Assets" folder is included. It needs to be extracted and placed inside the same directory. https://drive.google.com/file/d/1MPAAzm_JFViIdMnaJEAMcbS42aReB8u3/view?usp=sharing
+
 ## Project Setup
 
 - **Engine:** Unity 2022.3.62f3 (LTS)
@@ -35,10 +38,12 @@ Desktop -- Browser Website
 To open the project:
 
 1. Clone the repository.
-2. Open Unity Hub and add the folder as an existing project.
-3. Open with Unity 2022.3.62f3.
-4. Open the scene `Assets/Scenes/MiniGame.unity`.
-5. Press Play.
+2. Download the Assets folder from the Google Drive link.
+3. Extract the Assets folder into the same directory as the repository (Project Structure below).
+4. Open Unity Hub and add the folder as an existing project.
+5. Open with Unity 2022.3.62f3.
+6. Open the scene `Assets/Scenes/MiniGame.unity`.
+7. Press Play.
 
 ## Project Structure
 
